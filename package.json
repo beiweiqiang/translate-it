@@ -2,8 +2,12 @@
   "name": "translate-it",
   "displayName": "translate-it",
   "description": "translate it",
-  "publisher": "bei",
+  "publisher": "beiweiqiang",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beiweiqiang/translate-it"
+  },
   "engines": {
     "vscode": "^1.52.0"
   },
